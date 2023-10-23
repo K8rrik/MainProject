@@ -1,0 +1,7 @@
+.container{
+    background-color: wheat;
+    height: 92%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

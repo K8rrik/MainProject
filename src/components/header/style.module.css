@@ -1,0 +1,21 @@
+.container{
+    background-color: dimgray;
+    height: 8%;
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    width: 700px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links{
+    font-size: 20px ;
+    text-decoration: none;
+    color: white;
+}
+.links:hover{
+    color: palevioletred;
+}
